@@ -34,7 +34,7 @@ I've always been a huge fan of The Legend of Zelda series, and I wanted to creat
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/zelda-like-game.git
+git clone https://github.com/AlexKautz/OrbQuest
 ```
 
 2. Navigate to the project folder:
@@ -62,7 +62,7 @@ python main.py
 
 ## Credits
 
-- Game developed by [Alex Kautz](https://github.com/yourusername)
+- Game developed by [Alex Kautz](https://github.com/AlexKautz)
 - Special thanks to OpenAI's GPT-4 and GitHub Copilot for assisting in the development process
 
 Feel free to explore the project, provide feedback, or contribute! Enjoy the game, and happy adventuring!
