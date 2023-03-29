@@ -28,9 +28,9 @@ I've always been a huge fan of The Legend of Zelda series, and I wanted to creat
 
 ## Requirements
 
-- Python 3.6 or higher
-- Pygame 2.0.1 or higher
-- NumPy 1.19.3 or higher
+- [Python](https://www.python.org/) 3.11.2 or higher
+- [Pygame](https://github.com/pygame/pygame) 2.3.0 or higher
+- [NumPy](https://github.com/numpy/numpy) 1.24.2 or higher
 
 ## Installation
 
@@ -65,6 +65,9 @@ python main.py
 ## Credits
 
 - Game developed by [Alex Kautz](https://github.com/AlexKautz)
+- Thanks to the [Python](https://www.python.org/) team
+- Thanks to the [Pygame](https://www.pygame.org/) team
+- Thanks to the [NumPy](https://numpy.org/) team
 - Special thanks to OpenAI's GPT-4 and GitHub Copilot for assisting in the development process
 
 Feel free to explore the project, provide feedback, or contribute! Enjoy the game, and happy adventuring!
