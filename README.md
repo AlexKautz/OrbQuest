@@ -1,5 +1,7 @@
 # Zelda-like Game
 
+![Screenshot](assets/Screenshot.png)
+
 A top-down 2D adventure game inspired by The Legend of Zelda, developed using Python and Pygame. This project is a personal endeavor to practice programming with the help of both GitHub Copilot and GPT-4 AI language models.
 
 ## Table of Contents
