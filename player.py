@@ -1,5 +1,6 @@
 import pygame
 import math
+import sys
 
 SPRITE_IMAGE_PATH = "assets/player.png"
 
@@ -29,6 +30,11 @@ class Player(pygame.sprite.Sprite):
         # Detect if the D key is pressed
         if keys[pygame.K_d]:
             dx += SPEED
+
+        # Detect if the esc key is pressed
+        if keys[pygame.K_ESCAPE]:
+            pygame.quit()
+            sys.exit()
         
         # Normalize the diagonal speed
         if dx != 0 and dy != 0:
