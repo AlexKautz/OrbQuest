@@ -41,7 +41,7 @@ git clone https://github.com/AlexKautz/OrbQuest
 
 2. Navigate to the project folder:
 ```
-cd zelda-like-game
+cd OrbQuest
 ```
 
 3. Install the required dependencies:
